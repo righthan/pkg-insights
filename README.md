@@ -6,6 +6,10 @@
 (这里使用项目源码安装和正式发布之后的npm inatall搜索安装略有不同)
 
 1. 克隆仓库到本地
+
+   ```
+   git clone git@github.com:righthan/pkg-insights.git
+   ```
 2. 进入这个项目的根目录，执行以下命令
 
    ```
