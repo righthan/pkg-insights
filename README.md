@@ -3,6 +3,7 @@
 分析当前项目目录下的`package.json`出发，遍历分析node_modules下的所有依赖包关系的cli工具
 
 **使用方法**
+(这里使用项目源码安装和正式发布之后的npm inatall搜索安装略有不同)
 
 1. 克隆仓库到本地
 
@@ -11,6 +12,8 @@
    ```
    // 安装项目所需依赖
    npm install
+   // 编译当前项目
+   npm run build
    // 安装当前项目到全局
    npm install -g
    ```
